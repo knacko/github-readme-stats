@@ -78,8 +78,8 @@ Your small help goes a long way. :heart:
 # Features
 
 - [GitHub Stats Card](#github-stats-card) 
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card) 
+- [GitHub Extra Pins](#github-extra-pins) 
+- [Top Languages Card](#top-languages-card)
 - [Wakatime Week Stats](#wakatime-week-stats)
 - [Themes](#themes)
 - [Customization](#customization)
